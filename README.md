@@ -24,7 +24,7 @@
 - 🔭 I am an aspiring full stack web developer.
 - 🌱 I’m a currently looking for open source projects to contribute.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Learn JS (React,Vue,Node)
+- 🥅 2022 Goals: Become Expert in JS (React,Vue,Node) & DSA.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
