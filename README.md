@@ -19,6 +19,7 @@
 <div align="center">
 
 ### I am an undergraduate computer science student at Government College of Engineering and Leather Technology.
+
 </div>
 
 - 🔭 I am an aspiring full stack web developer.
@@ -32,7 +33,6 @@
 <br/> <br/>
 
 <h2>⚡ Technology Stack</h2>
-
 
 <h3>Languages & Framework: </h3>
 <p align="center">
@@ -61,6 +61,8 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <h3>IDEs I USe: </h3>
@@ -85,7 +87,7 @@
 <br/>
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyajit-Codys&theme=vue) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyajit-Codys&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satyajit-Codys&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Satyajit-Codys&theme=vue)
 <br/>
