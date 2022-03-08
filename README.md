@@ -19,7 +19,7 @@
 
 <div align="center">
 
-### I am an undergraduate computer science student at Government College of Engineering and Leather Technology.
+### I am an undergraduate computer science student at Government College of Engineering and Leather Technology. Recently Joined Cognizant as a Programmer Analyst.
 
 </div>
 
