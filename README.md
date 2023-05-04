@@ -19,7 +19,7 @@
 
 <div align="center">
 
-### I am an undergraduate computer science student at Government College of Engineering and Leather Technology. Recently Joined Cognizant as a Programmer Analyst.
+### As a junior software engineer at Cognizant, I'm always eager to tackle new coding challenges and explore fresh ideas. With a passion for problem-solving and a commitment to clean, efficient code, I strive to create software that is both functional and elegant. Whether I'm working on a personal project or collaborating with a team, I'm constantly seeking ways to improve my skills and push the boundaries of what's possible. When I'm not coding, you can usually find me hiking, reading, or tinkering with electronics. Feel free to check out my GitHub page to see some of my latest projects and get in touch if you'd like to collaborate on something new!
 
 </div>
 
