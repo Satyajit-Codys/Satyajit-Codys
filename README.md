@@ -19,17 +19,21 @@
 
 <div align="center">
 
-### As a junior software engineer at Cognizant, I'm always eager to tackle new coding challenges and explore fresh ideas. With a passion for problem-solving and a commitment to clean, efficient code, I strive to create software that is both functional and elegant. Whether I'm working on a personal project or collaborating with a team, I'm constantly seeking ways to improve my skills and push the boundaries of what's possible. When I'm not coding, you can usually find me hiking, reading, or tinkering with electronics. Feel free to check out my GitHub page to see some of my latest projects and get in touch if you'd like to collaborate on something new!
+### As a junior software engineer at Cognizant, I'm always eager to tackle new coding challenges and explore fresh ideas. With a passion for problem-solving and a commitment to clean, efficient code, I strive to create software that is both functional and elegant. 
+# Whether I'm working on a personal project or collaborating with a team, I'm constantly seeking ways to improve my skills and push the boundaries of what's possible.
+
+# Feel free to check out my GitHub page to see some of my latest projects and get in touch if you'd like to collaborate on something new!
 
 </div>
 
 - 🔭 I am an aspiring full stack web developer.
 - 🌱 I’m a currently looking for open source projects to contribute.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2022 Goals: Become Expert in JS (React,Vue,Node) & DSA.
+- 🥅 2023 Goals: AWS Certification, Springboot master, Pro Reacting with React.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
+- When I'm not coding, you can usually find me hiking, reading, or tinkering with electronics.
 
 <br/> <br/>
 
