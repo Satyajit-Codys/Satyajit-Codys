@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Satyajit-Codys&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=Satyajit-Codys&style=for-the-badge&color=lightgrey">
 </p>
 <p align="center">   
   <a href="mailto:satyajitdebnath87@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
