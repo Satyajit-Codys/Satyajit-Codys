@@ -15,9 +15,8 @@
 </p>
 
 <br/>
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-# Hello, I'm Satyajit! ![wave](https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif)
+# Hello, I'm Satyajit! ![wave](https://monkdevelopers.com/assets/imgs/logo/logo-black.png)
 
 Welcome to my corner of the web! I’m the founder of **Monkdevelopers**, an agency dedicated to taking projects from **concept** to **launch and beyond**, serving clients worldwide with a focus on **innovation, collaboration, and impact**.
 
