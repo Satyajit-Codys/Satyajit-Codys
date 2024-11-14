@@ -1,6 +1,6 @@
 <h1 align="center">
   Hello there, I'm Satyajit!
-  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
+  <a href="#"><img src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="48"></a>
 </h1>
 
 <p align="center">
