@@ -10,8 +10,6 @@
 <br/>
 <img align="right" height="270px" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Iydzk3ZG9jMzRvNjQ0cGNlOGthczlxbmp5MG13YThvdTR4eTR5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" />
 
-# Hello, I'm Satyajit! ![wave](https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif)
-
 Welcome to my corner of the web! I’m the founder of **Monkdevelopers**, an agency dedicated to taking projects from **concept** to **launch and beyond**, serving clients worldwide with a focus on **innovation, collaboration, and impact**.
 
 ---
