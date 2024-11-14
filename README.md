@@ -6,17 +6,11 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Satyajit-Codys&style=for-the-badge&color=lightgrey">
 </p>
-<p align="center">   
-  <a href="mailto:satyajitdebnath87@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/dsatyajit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://www.instagram.com/satyajitdebnath_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.hackerrank.com/satyajitdebnath2" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a> 
-  <a href="https://auth.geeksforgeeks.org/user/satyajitdebnath87/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"></a> 
-</p>
 
 <br/>
+<img align="right" height="270px" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Iydzk3ZG9jMzRvNjQ0cGNlOGthczlxbmp5MG13YThvdTR4eTR5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" />
 
-# Hello, I'm Satyajit! ![wave](https://monkdevelopers.com/assets/imgs/logo/logo-black.png)
+# Hello, I'm Satyajit! ![wave](https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif)
 
 Welcome to my corner of the web! I’m the founder of **Monkdevelopers**, an agency dedicated to taking projects from **concept** to **launch and beyond**, serving clients worldwide with a focus on **innovation, collaboration, and impact**.
 
