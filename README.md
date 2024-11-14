@@ -17,23 +17,42 @@
 <br/>
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<div align="center">
+# Hello, I'm Satyajit! ![wave](https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif)
 
-### As a software engineer at Cognizant, I'm always eager to tackle new coding challenges and explore fresh ideas. With a passion for problem-solving and a commitment to clean, efficient code, I strive to create software that is both functional and elegant. 
-Whether I'm working on a personal project or collaborating with a team, I'm constantly seeking ways to improve my skills and push the boundaries of what's possible.
+Welcome to my corner of the web! I’m the founder of **Monkdevelopers**, an agency dedicated to taking projects from **concept** to **launch and beyond**, serving clients worldwide with a focus on **innovation, collaboration, and impact**.
 
-Feel free to check out my GitHub page to see some of my latest projects and get in touch if you'd like to collaborate on something new!
+---
 
-</div>
+### About Me
+With my past experience as a full-stack developer at Cognizant and now as the lead at Monkdevelopers, I bring a **passion for problem-solving** and a **commitment to excellence** in design, development, and marketing.
 
-- 🔭 I am an aspiring full stack web developer.
-- 🌱 I’m a currently looking for open source projects to contribute.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2023 Goals: AWS Certification, Springboot master, Pro Reacting with React.
-- 💬 Ask me about anything, I am happy to help :smile:
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
-- When I'm not coding, you can usually find me hiking, reading, or tinkering with electronics.
+Over the years, we’ve collaborated with **clients from 12+ countries**, delivering **unique solutions** and building **amazing digital experiences**.
+
+### What I Do
+- **Full-Stack Development**: Clean, maintainable, and scalable code.
+- **Design Services**: From user-centric UX/UI to impactful graphic designs.
+- **Digital Marketing**: Result-driven strategies to maximize reach.
+- **Idea to Launch Consulting**: From inception to delivery, we guide every step.
+
+---
+
+### 🤝 Let’s Connect and Collaborate!
+Interested in creating, building, or marketing something impactful? Feel free to connect:
+
+<p align="center">
+  <a href="mailto:satyajitdebnath87@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/dsatyajit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.instagram.com/satyajitdebnath_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
+---
+
+### ⚡ Goals & Highlights
+- 🚀 **Expand Global Clientele** and create solutions that matter.
+- 📈 **Focus on End-to-End Projects** that drive business value.
+- 🤖 **Keep Innovating** in tech, design, and strategies.
+- 🏆 2024 Goals: **Cross-platform Mobile Mastery**, AI & Automation Edge.
+- 🌟 Collaborating with creatives, tech enthusiasts, and visionaries.
 
 <br/> <br/>
 
