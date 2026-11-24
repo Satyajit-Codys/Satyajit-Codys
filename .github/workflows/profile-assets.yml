@@ -1,0 +1,61 @@
+name: Profile assets
+
+# Regenerates the stats card and contribution animation, then publishes them
+# to the `output` branch that README.md reads from.
+
+on:
+  schedule:
+    - cron: "0 1 * * *" # daily, 01:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - scripts/**
+      - .github/workflows/profile-assets.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build team activity card
+        env:
+          # Required: PROFILE_TOKEN secret = a fine-grained token owned by the profile
+          # account with read-only "Contents" + "Metadata" on all repositories. The
+          # default GITHUB_TOKEN only sees public repos, so the script refuses it.
+          # Only aggregate numbers are rendered; no repository names are published.
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
+          OUT_DIR: dist
+        run: python scripts/build_stats_card.py
+
+      - name: Build contribution animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/contrib-light.svg
+            dist/contrib-dark.svg?palette=github-dark
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: refresh profile assets"
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
